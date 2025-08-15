@@ -2,7 +2,7 @@
 
 **Astronomy + Data Science Student** @ [UIUC]  
 - **Learning:** Python, C#, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- Currently working on expanding my project portfolio and data science projects
+- Currently working on expanding my project portfolio and interested in data science + machine learning
 
 ---
 
