@@ -1,8 +1,9 @@
 # Hi, I'm Victor Liu
 
-**Astronomy + Data Science Student** @ [UIUC]  
+**Astronomy + Data Science Student** @ UIUC
 - **Learning:** Python, C#, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- Currently working on expanding my project portfolio and interested in data science + machine learning
+- Currently working on expanding my project portfolio
+- Interested in data science + machine learning
 
 ---
 
