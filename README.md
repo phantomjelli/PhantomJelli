@@ -1,7 +1,7 @@
 # Hi, I'm Victor Liu
 
 **Astronomy + Data Science Student** @ UIUC
-- **Learning:** Python, C#, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Learning:** Astropy, astroquery, photutils
 - Interested in scientific support and data science roles
 
 ---
@@ -19,9 +19,9 @@
   Cleaned and processed asteroid datasets, handled missing values and outliers, and performed exploratory data analysis to uncover trends and distributions.  
   *Python, Pandas, Matplotlib, Seaborn*
 
-- [**Asteroid Dataset Analysis: Statistical Inference**](https://github.com/phantomjelli/Asteroid-Dataset-Statistical-Inference)  
-  Conducted statistical confidence interval analysis and hypothesis testing to understand asteroid properties and patterns in the dataset.  
-  *Python, Pandas, Scipy, Statsmodels*
+- [**Earthquake Data Explorer**](https://github.com/phantomjelli/Earthquake-Data-Explorer)  
+  Built an interactive R Shiny app for exploring seismic data through statistical inference, correlation testing, and multiple regression modeling.
+  **R, Shiny, ggplot2*
 
 - [**Asteroid Dataset Analysis: Predictive Modeling & Evaluation**](https://github.com/phantomjelli/Asteroid-Dataset-Predictive-Modeling)  
   Built and evaluated predictive models to answer research questions, using regression and classification techniques.  
