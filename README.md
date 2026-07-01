@@ -2,15 +2,14 @@
 
 **Astronomy + Data Science Student** @ UIUC
 - **Learning:** Python, C#, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- Currently working on expanding my project portfolio
-- Interested in data science + machine learning
+- Interested in scientific support and data science roles
 
 ---
 
 ## Skills & Tools
-- **Languages:** Python
-- **Data Analysis:** Pandas, NumPy, Matplotlib  
-- **Other Tools:** Jupyter Notebook, Git, GitHub
+- **Languages:** Python, R, C#
+- **Libraries:** Pandas, NumPy, Matplotlib, Astropy, astroquery, scikit-learn
+- **Other Tools:** Jupyter Notebook, Git, GitHub, Excel
 
 ---
 
